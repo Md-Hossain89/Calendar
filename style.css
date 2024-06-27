@@ -58,7 +58,7 @@ header .calendar-current-date {
 }
 
 .calendar-body {
-	padding: 20px;
+	padding: 20px 0px;
     background-color: #0c0c22;
 }
 
